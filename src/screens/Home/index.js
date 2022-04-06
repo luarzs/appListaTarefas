@@ -24,7 +24,7 @@ export default function Home() {
     let [minhasTarefas, setMinhasTarefas] = useState([
         {
             id: 0,
-            nome: 'Limpar a Casa'
+            nome: 'Limpar o Quintal'
         },
 
         {
